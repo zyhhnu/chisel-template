@@ -1,4 +1,3 @@
-Chisel Project Template
 =======================
 
 You've done the [Chisel Bootcamp](https://github.com/freechipsproject/chisel-bootcamp), and now you
